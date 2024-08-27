@@ -1,19 +1,62 @@
-<h1 align="center">Hi 👋, I'm Juan Romero</h1>
-<h3 align="center">Backend developer turned to the bright side of the frontend development, always eager to share my knowledge, with a passion to develop communities that make a difference</h3>
+# Hi there, I'm Juan Romero 👋
 
-- 🌱 I’m currently learning **React and Next.js**
+## Operating Systems Specialist | Web Developer | Tech Educator
 
-- 👨‍💻 All of my projects are available at [https://www.juanprm.dev/](https://www.juanprm.dev/)
+I'm an operating systems specialist with a passion for web development and technology education. My journey spans from backend development to frontend, always eager to learn and share knowledge.
 
-- 📫 How to reach me **juanprmendoza96@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/juanprm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="juanprm" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/romero-juan-/">
-  <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
-</a>
-</p>
+- 🖥️ Operating systems specialist with experience in technical support and web development
+- 🎓 Studying Computer Systems Operations at Captioma Salnes
+- 🌱 Currently learning **React and Next.js**
+- 👨‍🏫 Volunteer teaching assistant for memory and brain training workshops
+- 💻 Full Stack Web Developer with a Bachelor's in Software Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### 🛠️ Skills
+
+- **Programming:** Bash, HTML, CSS, JavaScript, SQL, Node.js, Express.js
+- **Developer Tools:** Git, Power Automate, PowerShell, Windows Subsystem for Linux, VMware Workstation, Oracle VM VirtualBox
+- **Operating Systems:** Ubuntu, Arch, Debian, Rocky Linux, Windows Server
+
+### 🌟 Projects
+
+- **Delilah-Resto:** Backend for a restaurant using Node.js, Express.js, MySQL, JWT, and Sequelize
+- **GifOS:** Project integrating Giphy REST API and RecordRTC for GIF creation
+
+### 🌍 Languages
+
+- Spanish (Native)
+- English (B2)
+
+### 🤝 Connect with me
+
+- LinkedIn: [Juan Romero](https://www.linkedin.com/in/romero-juan-)
+- GitHub: [Addin](https://github.com/Addin)
+- Portfolio: [juanprm.dev](https://www.juanprm.dev/)
+- Email: juanprm@proton.me
+
+### 💼 Professional Experience
+
+- **Operating Systems Intern** at SAFE Formación (2024)
+- **Teaching Assistant (Volunteer)** at Red Cross (2023 - Present)
+- **Teaching Assistant (Volunteer)** at Fundación Cibervoluntarios (2023 - Present)
+- **Volunteer** at FrontendCafé (2020 - 2022)
+
+### 🏆 Certifications
+
+- Full Stack Web Developer (Acámica, 2019 - 2020)
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Addin&show_icons=true&theme=radical)
+
+### 🔧 Languages and Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
