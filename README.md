@@ -7,8 +7,6 @@ I'm an operating systems specialist with a passion for web development and techn
 ### 🚀 About Me
 
 - 🖥️ Operating systems specialist with experience in technical support and web development
-- 🎓 Studying Computer Systems Operations at Captioma Salnes
-- 🌱 Currently learning **React and Next.js**
 - 👨‍🏫 Volunteer teaching assistant for memory and brain training workshops
 - 💻 Full Stack Web Developer with a Bachelor's in Software Development
 
@@ -32,7 +30,6 @@ I'm an operating systems specialist with a passion for web development and techn
 
 - LinkedIn: [Juan Romero](https://www.linkedin.com/in/romero-juan-)
 - GitHub: [Addin](https://github.com/Addin)
-- Portfolio: [juanprm.dev](https://www.juanprm.dev/)
 - Email: juanprm@proton.me
 
 ### 💼 Professional Experience
