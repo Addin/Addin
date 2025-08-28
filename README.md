@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Juan Romero
 
-**Cybersecurity & systems administration professional** based in Galicia, Spain
+**Cybersecurity & systems administration professional** based in Galicia, Spain.
 
 ### 🛡️ What I do
 - **Cybersecurity**: Vulnerability assessments, penetration testing, security auditing.
@@ -40,7 +40,7 @@
 - Learning projects and security labs.
 
 ### 📫 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/romero-juan](https://linkedin.com/in/romero-juan)
+- 💼 LinkedIn: [linkedin.com/in/romero-juan](https://linkedin.com/in/romero-juan).
 - 📧 Email: juanprm@proton.me.
 - 🌍 Location: Galicia, Spain.
 
