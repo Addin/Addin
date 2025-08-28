@@ -10,12 +10,12 @@
 
 ### 🔧 Technologies & tools
 
-  **Security:** Nmap, Wireshark, Snort, penetration testing frameworks.
-  **Operating Systems:** Windows Server, Linux (Ubuntu, RHEL, Rocky, Debian). 
-  **Cloud & Containers:** Docker, Kubernetes, Proxmox.  
-  **Scripting:** PowerShell, Bash, Python.
-  **Development:** JavaScript, SQL, Git.  
-  **Automation:** GitHub Actions, system deployment scripts.  
+- **Security:** Nmap, Wireshark, Snort, penetration testing frameworks.
+- **Operating Systems:** Windows Server, Linux (Ubuntu, RHEL, Rocky, Debian). 
+- **Cloud & Containers:** Docker, Kubernetes, Proxmox.  
+- **Scripting:** PowerShell, Bash, Python.
+- **Development:** JavaScript, SQL, Git.  
+- **Automation:** GitHub Actions, system deployment scripts.  
 
 ### 💼 Experience
 - **Cybersecurity intern** at Captioma - Penetration testing, security workshops.
